@@ -21,6 +21,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/India_BMNG.jpg?width=700" alt="High-Resolution Satellite View of India (NASA Blue Marble)" width="520" />
+  <br />
+  <em>High-Resolution Earth Observation Satellite View of the Indian Subcontinent (NASA Blue Marble)</em>
+</p>
+
 ## ✨ Key Features
 
 | Module | What It Does |
