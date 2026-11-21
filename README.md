@@ -12,7 +12,7 @@
 
 ## 🔗 Quick Links
 - **🌐 Live Deployed App:** [https://krishi-raksha.streamlit.app/](https://krishi-raksha.streamlit.app/)
-- **📊 Idea Pitch Deck (PPT):** [View Idea Pitch Presentation](./Idea_Pitch_Deck.pptx)
+- **📊 Idea Pitch Deck (PDF):** [View Idea Pitch Presentation](./Idea_Pitch_Deck.pdf)
 
 ---
 
